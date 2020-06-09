@@ -1,4 +1,4 @@
-package main
+package telegram
 
 type Config struct {
 	UseProxy bool   `json:"use_proxy"`

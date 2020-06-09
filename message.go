@@ -1,4 +1,4 @@
-package main
+package telegram
 
 const MarkdownTypeMessage = "markdown"
 const HtmlTypeMessage = "html"

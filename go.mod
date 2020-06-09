@@ -1,4 +1,4 @@
-module telegram-simple-message
+module github.com/evgeny-klyopov/telegram-simple-message
 
 go 1.13
 
